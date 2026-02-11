@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Jasiri Bandele, and I am a Computer Science major and Game Design major at ODU and this is my GitHub readme for class
 <!--
 **ayosiri-gif/ayosiri-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
